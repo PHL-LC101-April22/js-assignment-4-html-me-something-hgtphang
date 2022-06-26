@@ -1,1 +1,42 @@
 /* Write your CSS here! */
+body {
+    background-color:antiquewhite;
+    display: block;
+    margin: 8px;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+#listOfFavoriteSports {
+    border: 1px solid black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    margin-left: 40px;
+    background-color: azure;
+}
+
+nav ul {
+	text-align: center;
+    padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+    font-size: large;
+}
+
+main h2 {
+	padding: 0.5em;
+}
+
+p {
+	padding: 1em;
+}
